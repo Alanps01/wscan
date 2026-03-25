@@ -172,8 +172,3 @@ Do **not** scan systems without permission.
 The author is **not responsible for misuse of this tool**.
 
 ---
-
-## 👨‍💻 Author
-
-Alan
-Cybersecurity Student
